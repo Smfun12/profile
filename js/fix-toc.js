@@ -1,6 +1,7 @@
 // Copyright (c) 2017 Yihui Xie
 // & 2018 Vincent Tam (under MIT)
 // & 2020 Roman Ring (under MIT)
+// & 2024 Oleksandr Reshetar (under MIT)
 function fix_toc(root) {
   if (!root) return;
 
